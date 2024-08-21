@@ -1,6 +1,11 @@
-# Adicionando elementos
-Esse projeto foi feito para ensinar a adicionar elementos dentro de uma Array, onde utilizamos:
-unshift para adicionar no inicio, splice para adicionar um elemento no meio e push para adicionar no final.
+# Encontrando elementos
+Esse projeto foi feito para ensinar a adicionar e procurar elementos dentro de uma Array, onde utilizamos:
+- Unshift para adicionar no inicio
+- Splice para adicionar um elemento no meio 
+- Push para adicionar no final
+- IndexOf para localizar a ocorrencia
+- LastIndexOf para localizar a ultima ocorrencia do valor digitado.
+- includes para verificar se existe ou não a ocorrencia.
 
 ## 🚀 Tecnologias
 
